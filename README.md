@@ -1,6 +1,8 @@
 # Convert to PDF
 
-Batch convert every ppt to pdf files by Automator on MacOS
+Batch convert every ppt to pdf files by Automator on MacOS. Requires 
+
+_M$ Powerpoint to be installed on the devices_
 
 ## How to make the Convert to PDF
 
